@@ -1,5 +1,7 @@
 Bot for miniconomy.com that I wrote in 2011
 
+Originally named MCAutomate
+
 General:
 Automating my trading on www.miniconomy.com
 I can download all prices from the market and search them super fast.
