@@ -1,0 +1,14 @@
+2011-02-27 20:48	Cash	91.85		Ran keepMachineAlive all night and day
+2011-02-27 22:00	Cash	71.42
+2011-02-27 22:45	Cash	136.42
+2011-02-27 23:18	Cash	636.42
+2011-02-27 23:19	Cash	336.42
+2011-02-27 23:20	Cash	11.42
+2011-02-28 07:00	Cash	141.42
+2011-02-28 07:01	Cash	191.42
+2011-02-28 21:00	Cash	800		Stopped KeepMachineAlive
+2011-02-28 21:10	Cash	10		Travelled
+2011-02-28 23:07	Cash	...		Found cheaper machines (also retrieved all foreign prices) and transported them and sold
+2011-02-28 23:19	Cash	808		Ran autoinvest while I have 1 more machine in the Cashington shop
+...
+2011-03-05 10:00	Cash	1149		Had bought diamond drill and gold from other city to city where there was none

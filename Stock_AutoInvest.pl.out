@@ -1,0 +1,28 @@
+Already logged in.
+Cookie:
+Set-Cookie3: PHPSESSID=qloee72ji99mp21ilfp8aitk45; path="/"; domain=www.miniconomy.com; path_spec; discard; version=0
+Set-Cookie3: mc_language=english; path="/"; domain=www.miniconomy.com; expires="2013-03-20 09:30:36Z"; version=0
+
+
+13/03/2011,20:01:00	Checking stock prices...
+	Current session account:
+		CAS	USSREX	TIM	MTI	ZWF	NSQ	KRONADAX	CPG	EPSX	EEX	
+		0	0	0	0	0	0	0	0	0	0	
+
+	Prices recent history:
+		CAS: 
+		USSREX: 
+		TIM: 
+		MTI: 
+		ZWF: 
+		NSQ: 
+		KRONADAX: 
+		CPG: 
+		EPSX: 
+		EEX: 
+
+	Current book:
+		CAS	USSREX	TIM	MTI	NSQ	ZWF	KRONADAX	CPG	EPSX	EEX	
+												
+
+13/03/2011,20:01:00	Buy 3 CAS at 

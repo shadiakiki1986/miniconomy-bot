@@ -1,0 +1,20 @@
+ln -s /home/shadi/experimental/MCAutomate/cookie.txt cookie.txt
+
+
+ln -s /home/shadi/experimental/MCAutomate/CookieShow.pl nph-CookieShow.pl
+ln -s /home/shadi/experimental/MCAutomate/ProductPrices_Retrieve.pl nph-ProductPrices_Retrieve.pl
+ln -s /home/shadi/experimental/MCAutomate/ProductPrices_Unique.pl nph-ProductPrices_Unique.pl
+ln -s /home/shadi/experimental/MCAutomate/ProductPrices_Show.pl nph-ProductPrices_Show.pl
+ln -s /home/shadi/experimental/MCAutomate/Product_KeepItemAlive.pl nph-Product_KeepItemAlive.pl
+ln -s /home/shadi/experimental/MCAutomate/General_CheckIfLoggedIn.pl nph-General_CheckIfLoggedIn.pl
+ln -s /home/shadi/experimental/MCAutomate/Auction_Get.pl nph-Auction_Get.pl
+
+chmod +x nph-ProductPrices_Unique.pl
+chmod +x nph-CookieShow.pl
+chmod +x nph-ProductPrices_Retrieve.pl
+chmod +x nph-ProductPrices_Unique.pl
+chmod +x nph-ProductPrices_Show.pl
+chmod +x nph-Product_KeepItemAlive.pl
+chmod +x nph-General_CheckIfLoggedIn.pl
+chmod +x nph-Auction_Get.pl
+

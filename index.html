@@ -1,0 +1,47 @@
+<html><body><h1>MCAutomate</h1>
+<p>This is the default web page for MCAutomate, an automated way of retrieving market data from the www.miniconomy.com game.</p>
+
+<h2>Log-in-based services.</h2>
+<ul>
+<li><a href="/scgi-bin/nph-CookieShow.pl">CookieShow.pl</a></li>
+<li>
+	CookieWrite.pl <br/>
+	<form name="CookieWrite" action="/scgi-bin/nph-CookieWrite.pl" method="get">
+	PHP Session ID: <input type="text" maxlength="26" name="phpsessionid" /> &nbsp;
+	<input type="submit" value="Submit" />
+	</form>
+</li>
+<li><a href="/scgi-bin/nph-General_CheckIfLoggedIn.pl">General_CheckIfLoggedIn.pl</a></li>
+<li><a href="/scgi-bin/nph-ProductPrices_Retrieve.pl">ProductPrices_Retrieve.pl</a></li>
+<li><!--<a href="/scgi-bin/nph-Product_KeepItemAlive.pl">-->Product_KeepItemAlive.pl<!--</a>--></li>
+<li>
+	Auction_Get.pl <br/>
+	<form name="Auction_Get" action="/scgi-bin/nph-Auction_Get.pl" method="get">
+	Sell at: <input type="text" name="sellat" /> &nbsp;
+	N retry: <input type="text" name="N" /> &nbsp;
+	<input type="submit" value="Submit" />
+	</form>
+</li>
+</ul>
+<hr/>
+<h2>Database-based services.</h2>
+<ul>
+<li><a href="/scgi-bin/nph-ProductPrices_Unique.pl">ProductPrices_Unique.pl</a></li>
+<li>
+	ProductPrices_Show.pl <br/>
+	<form name="ProductPrices_Show" action="/scgi-bin/nph-ProductPrices_Show.pl" method="get">
+	Requested product: <input type="text" name="reqprodname" /> &nbsp;
+	<input type="submit" value="Submit" />
+	</form>
+</li>
+<li>
+	ProductPrices_ProductionCosts.pl <br/>
+	<form name="ProductPrices_ProductionCosts" action="/scgi-bin/nph-ProductPrices_ProductionCosts.pl" method="get">
+	reqprodname: <input type="text" maxlength="26" name="reqprodname" /> &nbsp;
+	reqprodqty: <input type="text" name="reqprodqty" /> &nbsp;
+	reqprodrate: <input type="text" name="reqprodrate" /> &nbsp;
+	<input type="submit" value="Submit" />
+	</form>
+</li>
+</ul>
+</body></html>
